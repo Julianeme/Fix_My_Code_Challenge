@@ -4,7 +4,7 @@ Definition of square class and its methods
 """
 
 
-class square():
+class Square():
     """
     definition of square class
     """
@@ -31,7 +31,7 @@ class square():
 
 if __name__ == "__main__":
 
-    s = square(width=12, height=9)
+    s = Square(width=12, height=9)
     print(s)
     print(s.area_of_my_square())
     print(s.PermiterOfMySquare())
