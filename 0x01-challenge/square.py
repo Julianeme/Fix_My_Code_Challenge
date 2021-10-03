@@ -1,7 +1,10 @@
 #!/usr/bin/python3
+"""
+Definition of square class and its methods
+"""
 
 
-class square():
+class Square():
     """
     definition of square class
     """
